@@ -70,11 +70,13 @@ Based on the analysis, the following actions are recommended:
 
 **Project Deliverables**
 
-[Final Poster Presentation](Geographic_Patterns_in_Ticket_Sales.pdf).
+[Final Poster Presentation](Geographic_Patterns_in_Ticket_Sales..pdf).
 
 [Tableau Workbook](Tableau_MultiYear_Analysis.twbx).
 
 [Supporting Excel Files](fire_and_police_teams_years.xlsx).
+
+[Supporting Excel Files](Dartmouth_TicketSales_Clean__for_Tableau.xlsx)
 
 **Skills Demonstrated**
 
