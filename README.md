@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project analyzes [brief description of problem, for example, multi-year ticket sales and fundraising performance] using real-world data from [Organization Name, for example, Children’s Hospital at Dartmouth Health (CHaD)].
+This project analyzes multi-year ticket sales and fundraising performance  using real-world data from the Children’s Hospital at Dartmouth Health (CHaD).
 
 Describe the Battle of the Badges fundraising event and it’s purpose.
 
