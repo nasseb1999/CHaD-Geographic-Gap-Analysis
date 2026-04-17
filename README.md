@@ -70,11 +70,11 @@ Based on the analysis, the following actions are recommended:
 
 **Project Deliverables**
 
-Final Poster Presentation (PowerPoint file).
+[Final Poster Presentation](Geographic Patterns in Ticket Sales.pdf).
 
-Tableau Workbook (.TWBX files).
+[Tableau Workbook](Tableau_MultiYear_Analysis.twbx).
 
-Supporting Excel Files (.xlsx files).
+[Supporting Excel Files](fire and police teams years.xlsx).
 
 **Skills Demonstrated**
 
