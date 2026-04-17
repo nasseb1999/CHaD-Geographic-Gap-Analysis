@@ -17,6 +17,7 @@ This project is a real-world analytics consulting engagement, where the goal is 
 This project is a real-world analytics consulting engagement, where the goal is to translate data into actionable insights for decision-makers at CHaD.
 
 **Data Description**
+
 The dataset includes:
 
 Ticket sales data (2023–2025): Detailed records of sales across three years used to map geographic reach. 
